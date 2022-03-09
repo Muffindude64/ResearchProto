@@ -1,0 +1,33 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+.overlay{
+  position: absolute;
+  top: 200;
+  padding: 1em;
+  font-family: serif;
+  font-size: 40px;
+  <h1 style="border:2px solid hotpink;">Hello World</h1>
+}
+
+h1{color: white;}
+a, a:visited {color: mediumvioletred;}
+
+
+
+
+
+.overlay2{
+  position: absolute;
+  top: 200;
+  padding: 1em;
+  font-family: serif;
+  font-size: 40px;
+  <h1 style="border:2px solid hotpink;">Hello World</h1>
+}
+}
